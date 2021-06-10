@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/*responsive*/
+
+@media (max-width:576) {
+    #about .col-md-6 {
+        padding: 0px;
+        width: 100%;
+        display: inline-block;
+    }
+    #about h3 {
+        text-align: justify;
+    }
+    #about p {
+        text-align: justify;
+    }
+    #about img {
+        width: 200px;
+        height: 300px;
+    }
+}

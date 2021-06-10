@@ -1,0 +1,49 @@
+#testimonial {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#testimonial .col-md-4 {
+    padding: 10px 30px;
+}
+
+#testimonial .col-md-4 img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-left: -30px;
+    margin-top: -40px;
+    border: 1px solid #fff;
+    margin-bottom: 30px;
+}
+
+.review {
+    font-size: 16px;
+    padding: 10px 10px 10px 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px 1px rgba(0, 0, 0, 0.2);
+}
+
+.review .fa-twitter {
+    color: #013f7e;
+}
+
+.review span {
+    color: #013f7e;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+#testimonial h1 {
+    margin-bottom: 20px;
+    color: #013f7e;
+}
+
+#testimonial p {
+    padding-bottom: 30px;
+}
+
+#testimonial .middel {
+    margin-bottom: -30px;
+    margin-top: -30px;
+}

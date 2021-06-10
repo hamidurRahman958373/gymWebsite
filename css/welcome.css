@@ -1,0 +1,26 @@
+.welcome {
+    padding: 50px 100px;
+    margin-top: -100px;
+    background-color: #fff;
+    box-shadow: 0 0 20px 7px rgba(0, 0, 0, 0.2);
+}
+
+.welcome h1 {
+    color: #333;
+}
+
+.welcome .home-btn {
+    margin-top: 10px;
+    padding: 10px 30px;
+    border-radius: 30px;
+    background-color: #013f7e;
+    color: #fff;
+}
+
+.welcome .home-btn:hover {
+    color: rgb(245, 151, 151);
+}
+
+.welcome .btn:focus {
+    box-shadow: none;
+}
